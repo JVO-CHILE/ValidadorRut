@@ -1,1 +1,6 @@
 D:\Proyectos\Personal\ValidadorRut\ValidadorRut\bin\Debug\ValidadorRut.exe.config
+D:\Proyectos\Personal\ValidadorRut\ValidadorRut\bin\Debug\ValidadorRut.exe
+D:\Proyectos\Personal\ValidadorRut\ValidadorRut\bin\Debug\ValidadorRut.pdb
+D:\Proyectos\Personal\ValidadorRut\ValidadorRut\obj\Debug\ValidadorRut.csprojResolveAssemblyReference.cache
+D:\Proyectos\Personal\ValidadorRut\ValidadorRut\obj\Debug\ValidadorRut.exe
+D:\Proyectos\Personal\ValidadorRut\ValidadorRut\obj\Debug\ValidadorRut.pdb
